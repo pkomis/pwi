@@ -1,0 +1,98 @@
+{
+	"default_language": "pl",
+	"languages": ["en", "pl"],
+	"translations": {
+		"opis": {
+			"en": "It student code it",
+			"pl": "Student Informatyki :)"
+		},
+		"about": {
+			"en": "About",
+			"pl": "O mnie"
+		},
+		"education": {
+			"en": "Education",
+			"pl": "Edukacja"
+		},
+		"icando": {
+			"en": "Things I Can Do",
+			"pl": "Co potrafię"
+		},
+		"profexp": {
+			"en": "Title in English",
+			"pl": "Doświadczenie Zawodowe"
+		},
+		"contact": {
+			"en": "Contact",
+			"pl": "Kontakt"
+		},
+		"title": {
+			"en": "Read Only",
+			"pl": "Tylko do odczytu"
+		},
+		"titledes": {
+			"en": "Just an incredibly simple resume of me!",
+			"pl": "Niesamowity i prosty mój życiorys"
+		}, 
+		"educationdes": {
+			"en": "Here's my educational path",
+			"pl": "Moja ścieżka edukacji"
+		},
+		"studentit": {
+			"en": "BSc in Computer Science Oct 2021 - Presen",
+			"pl": "Informatyka studia Inżynierskie"
+		},
+		"studentitdes": {
+			"en": " Warsaw University of Life Sciences, Warsaw",
+			"pl": "Szkoła Główna Gospodarstwa Wiejskiego, Warszawa"
+		},
+		"highschool": {
+			"en": "Liceum Ogólnokształcące im.Juliusza Słowackiego w Kielcach (High school) Sep 2017 - Jun 2020",
+			"pl": "VI Liceum Ogólnokształcące im.Juliusza Słowackiego w Kielcach"
+		},
+		"highschooldes": {
+			"en": "Multiple participant and winner of competitions: Alfik matematyczny, Kangur matematyczny<br/> Polish New Matura: Extended Mathematics ( 85th pct), Geography (90th pct), English (93th pct)",
+			"pl": "Multiple participant and winner of competitions: Alfik matematyczny, Kangur matematyczny<br/> Polish New Matura: Extended Mathematics ( 85th pct), Geography (90th pct), English (93th pct)"
+		},
+		"icandodes": {
+			"en": "Here's a list of unbelievable things I can do",
+			"pl": "Lista niesamowitych rzeczy jakie potrafię robić"
+		},
+		"writecode": {
+			"en": "Write all the code",
+			"pl": "Napisanie, każdego kodu"
+		},
+		"read": {
+			"en": "Read books and stuff",
+			"pl": "Czytanie książek"
+		},
+		"coffee": {
+			"en": "Drink much coffee",
+			"pl": "Picie dużej ilości kawy"
+		},
+		"shadow": {
+			"en": "Shadow clone technique",
+			"pl": "Technika Cienistego Klona"
+		},
+		"profexpdes": {
+			"en": "Some of the work I've done",
+			"pl": "Prace jakie się podjołem"
+		},
+		"kruko": {
+			"en": "Web Developer - summer internship",
+			"pl": "Wakacyjny staż, web developer"
+		},
+		"krukodes": {
+			"en": "Initial training in such technologies as Bash, Shell, Git, Database, HTML, CSS, JavScript, Ruby on Rails, Angular, React, <br/>Testing : unit testing, integration testing, end to end testing. The end of the training was to get a certificate from Knowde Inc <br />Creation and development of an online blog about culinary recipes. The project was based on MVC architecture. I worked in a team of 7 people as a back-end developer.",
+			"pl": "Przeszkolenie w takich technologiach jak: <br/> -Git (do czego służy po co go używać, podstawowe komendy jak git config, init, clone, push, status) <br/> -Bazy danych (Podstawowe operacje na bazach danych) <br/> -Html (Tworzenie tabeli, list, div, formularzy, atrybuty)  <br/>-Css (Znajomość podstaw jak: Pseudo-classes, Box Model, Padding) <br/>-JavaScript, Ruby on rails (Podstawowa znajomość syntaxu) <br/> -Testowanie aplikacji: testy unitowe, integracyjne, end-to-end. <br/> Przygotowanie i rozwijanie strony internetowej, blogu o gotowaniu w oparciu o architekturę mvc. Odpowiadałem za części back-endu strony w 5 osobowym zespole."
+		},
+		"contactme": {
+			"en": "Contact Me",
+			"pl": "Skontaktuj się ze mną"
+		},
+		"contactmedes": {
+			"en": "If you have more questions, please write to me !!!",
+			"pl": "Jeśli masz jakieś pytania, proszę napisz do mnie !!!"
+		}
+	}
+}
